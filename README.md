@@ -1,7 +1,7 @@
 # Split-Ortho-Keyboard
 
-![Render](Images\Render.png)
-![Keymap](Images\keyboard-layout.png)
+![Render](Images/Render.png)
+![Keymap](Images/keyboard-layout.png)
 
 ## Parts
 
